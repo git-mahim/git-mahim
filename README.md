@@ -38,8 +38,8 @@ I love to read books and listen to music.
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
-- 📫 I am just one mail away - **[Gmail](https://mailto:mahim.upwork@gmail.com)**
 - :wrench: Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Spotify, Local by Flywheel, Docker.
+- 📫 I am just one mail away - **[Gmail](https://mailto:mahim.upwork@gmail.com)**
 
 #### What I'm doing?
 
