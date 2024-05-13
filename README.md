@@ -69,7 +69,7 @@ I love to read books and listen to music.
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions` • `Travis CI`
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Asana`
-
+ 
 ### How to reach me?
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mailto:mahim.upwork@gmail.com)
