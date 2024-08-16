@@ -34,7 +34,7 @@ I am a Web Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, 
 Currently, I am working on **[Upwork](https://www.upwork.com/fl/~0111236bcb71a56a41)** as a web developer, My primary goal is to help my clients achieve their business goals in a creative, professional manner. I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
 
 I love to read books and listen to music.
-
+   
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about Vue.js, React.js, Alpine.js, PHP, WordPress, Laravel and API development.
