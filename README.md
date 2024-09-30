@@ -32,7 +32,7 @@
 I am a Web Developer with a huge love for Alpine.js, Vue.js, React.js, Laravel, Headless Tech, Everything API, RDBMS, WordPress, TailwindCSS and System Architecture. Currently, **I'm open to work and employment opportunities**.
    
 Currently, I am working on **[Upwork](https://www.upwork.com/fl/~0111236bcb71a56a41)** as a web developer, My primary goal is to help my clients achieve their business goals in a creative, professional manner. I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.
-  
+   
 I love to read books and listen to music.
    
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
